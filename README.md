@@ -1,4 +1,4 @@
-# 扫雷（Saolei）——C++ / EasyX 示例项目
+# 扫雷（Saolei）——C++ / EasyX 项目
 
 ## 简介
 - 本项目为一个基于 EasyX 的简单扫雷小游戏（Windows）。
